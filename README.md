@@ -3,7 +3,7 @@
 This project is a **Customer Churn Prediction Web App** built using **TensorFlow, Scikit-learn, Pandas,** and **Streamlit**.  
 It predicts whether a bank customer is likely to **churn** (leave the bank) based on their profile and financial information.
 
-🚀 **Live Demo**: [👉 Streamlit App](https://bank-churn-prediction-tf.streamlit.app)
+🚀 **Live Demo**: 👉 [Streamlit App](https://bank-churn-prediction-tf.streamlit.app)
 
 #
 
